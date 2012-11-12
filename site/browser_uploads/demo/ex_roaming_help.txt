@@ -1,0 +1,1 @@
+Irrespective of whether the plans file or usage file, has entries for roaming or not, they WILL NOT be considered for the bill evaluation.

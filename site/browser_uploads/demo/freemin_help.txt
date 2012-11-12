@@ -1,0 +1,5 @@
+<input format of national sec & national sms for plans.txt>
+DiscountNationalSec | <sec>
+DiscountSMSNationalNUM | <num>
+<input format of national sec & national sms for usage.txt>
+NONE

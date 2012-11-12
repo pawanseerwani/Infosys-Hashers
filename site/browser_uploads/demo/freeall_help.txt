@@ -1,0 +1,6 @@
+<input format of free ALL (Seconds or SMS)  for plans.txt>
+Discount* | ALL
+
+Not: * refers to anything of anytye
+<input format of national sec & national sms for usage.txt>
+NONE

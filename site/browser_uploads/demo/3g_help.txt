@@ -1,0 +1,12 @@
+<formats availabe for 3g data in plans.txt file>
+3GDataRsMb | <cost per mb>
+3GDataRsGb | <cost per gb>
+Discount3GDataMb | <discount in mb>
+Discount3GDataGb | <discount in gb>
+
+
+<formats availabe for 3g data in usage.txt file>
+3GDataMb | <usage in mb>
+3GDataGb | <usage gb>
+
+

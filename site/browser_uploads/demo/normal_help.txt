@@ -1,0 +1,25 @@
+Field | Field Description
+Name | Name of the Plan 
+MonthlyRentalRs | Monthly rental rupees per month
+DiscountOnNetLocalSEC | On Net local free seconds
+DiscountOffNetLocalSEC | Off Net local free seconds
+DiscountOnNetSTDSEC | On Net STD free seconds
+DiscountOffNetSTDSEC | Off Net STD free seconds
+DiscountSMSLocalNUM | Free local SMS
+DiscountSMSSTDNUM | Free STD SMS
+DiscountSMSNationalNUM | Free national (local plus STD) SMS
+OnNetLocalRsSEC | Voice On Net local rupees per second
+OffNetLocalRsSEC | Voice Off Net local rupees per second
+OnNetSTDRsSEC | Voice On Net STD rupees per second
+OffNetSTDRsSEC | Voice Off Net STD rupees per second
+ISD1RsSEC | ISD group 1 rupees per second
+ISD2RsSEC | ISD group 2 rupees per second
+SMSLocalRsSMS | Rupees per local SMS
+SMSSTDRsSMS | Rupees per STD SMS
+SMSISDRsSMS | Rupees per ISD SMS
+SMSRoamingRsSMS | Roaming rupees per SMS
+RoamingIncomingRsSEC | Roaming incoming rupees per second
+RoamingOutgoingLocalRsSEC | Roaming rupees per second local
+RoamingOutgoingSTDRsSEC | Roaming rupees per second STD
+
+

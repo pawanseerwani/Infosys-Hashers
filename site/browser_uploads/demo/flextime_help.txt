@@ -1,0 +1,53 @@
+<Availabel formats of time in plans.txt><num>
+DiscountOnNetLocalSEC | <num>
+DiscountOnNetSTDSEC | <num>
+OnNetLocalRsSEC | <num>
+OffNetLocalRsSEC | <num>
+OnNetSTDRsSEC | <num>
+OffNetSTDRsSEC | <num>
+ISD1RsSEC | <num>
+ISD2RsSEC | <num>
+RoamingIncomingRsSEC | <num>
+RoamingOutgoingLocalRsSEC | <num>
+RoamingOutgoingSTDRsSEC | <num>
+
+DiscountOnNetLocalMIN | <num>
+DiscountOnNetSTDMIN | <num>
+OnNetLocalRsMIN | <num>
+OffNetLocalRsMIN | <num>
+OnNetSTDRsMIN | <num>
+OffNetSTDRsMIN | <num>
+ISD1RsMIN | <num>
+ISD2RsMIN | <num>
+RoamingIncomingRsMIN | <num>
+RoamingOutgoingLocalRsMIN | <num>
+RoamingOutgoingSTDRsSEC | <num>
+
+<Availabel formats of time in usage.txt><num>
+OnNetLocalSEC | <num>
+OffNetLocalSEC | <num>
+OnNetSTDSEC | <num>
+OffNetSTDSEC | <num>
+ISD1SEC | <num>
+ISD2SEC | <num>
+SMSLocalSMS | <num>
+SMSSTDSMS | <num>
+SMSISDSMS | <num>
+SMSRoamingSMS | <num>
+RoamingIncomingSEC | <num>
+RoamingOutgoingLocalSEC | <num>
+RoamingOutgoingSTDSEC | 30000<num>
+
+OnNetLocalMIN | <num>
+OffNetLocalMIN | <num>
+OnNetSTDMIN | <num>
+OffNetSTDMIN | <num>
+ISD1MIN | <num>
+ISD2MIN | <num>
+SMSLocalSMS | <num>
+SMSSTDSMS | <num>
+SMSISDSMS | <num>
+SMSRoamingSMS | <num>
+RoamingIncomingMIN | <num>
+RoamingOutgoingLocalMIN | <num>
+RoamingOutgoingSTDMIN | 30000<num>
