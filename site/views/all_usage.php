@@ -55,29 +55,4 @@ td.best:hover {
 	<div class="clear">
 	</div>
 	</div>
-	<div id="all-usage">
-	<table class="table table-hover table-condensed table-bordered">
-		<caption><h4>Usage Table</h4></caption>
-		<tr>
-			<td><b>#</b></td>
-			<?php foreach($plans as $name =>$value) : ?>
-			<td class="<?php if(strpos($planStr,$name)!==false) echo 'best';?>"><b> <?php echo $name ?></b></td>
-			<?php endforeach ?>
-		</tr>
-		<?php foreach($cost as  $name => $value):?>
-		<tr>
-			<td><b><?php echo $name?></b></td>
-			<?php foreach($value as $plan=>$cost) :?>
-			<td class="<?php if(strpos($planStr,$plan)!==false) echo 'best';?>"><?php echo $cost?> <?php if($cost==$ans[$name]['cost']) echo "<span style='color:red;'>*</span>"?></td>
-			<?php endforeach ?>
-		</tr>
-		<?php endforeach; ?>
-		<tr>
-		<td><b>Total</b></td>
-			<?php foreach($allCost as $name =>$value) : ?>
-			<td class="<?php if(strpos($planStr,$name)!==false) echo 'best';?>"> <?php echo sprintf("%.2f",$value); ?> <?php if(strpos($planStr,$name)!==false) echo '<span style="color:red">*</span>';?></td>
-			<?php endforeach; ?>
-		</tr>
-	</table><!--all_usage_table-->
-	<p class="text-error">* represents best plan for each usage.</p>
-</div><!--all-usage-->
+

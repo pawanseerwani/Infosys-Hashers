@@ -1,5 +1,5 @@
 <?php
-
+/*
 function printToFile()
 {
 	global $fh,$usage_start_time,$usage_end_time,$planStr,$minValue;
@@ -23,5 +23,5 @@ function printToFile()
 	fwrite($fh, $str);
 	fclose($fh);
 }
-
+*/
 ?>
